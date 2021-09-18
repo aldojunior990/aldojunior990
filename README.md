@@ -6,7 +6,7 @@
 
 ### Minhas redes sociais:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/aldo-junior-a53a391aa/" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/aldo-junior-a53a391aa/" />][linkedin]]
 
 <br />
 
