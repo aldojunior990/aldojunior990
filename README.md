@@ -15,12 +15,12 @@
 
 <div display="flex">
 
-##GitHub Stats
+## GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=aldojunior990"/>
 
   
 
-##GitHub Languages
+## GitHub Languages
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldojunior990&layout=compact" />
 
 </div>
