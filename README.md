@@ -13,7 +13,7 @@
 <img  align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
-<div>
+<div display="flex">
 <nav>
 <h1>GitHub Stats</h1>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aldojunior990"/>
