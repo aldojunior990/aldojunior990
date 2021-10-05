@@ -14,10 +14,14 @@
 </div>
 
 <div>
+<nav>
 <h1>GitHub Stats</h1>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aldojunior990"/>
-
+</nav>
+  
+<nav>
 <h1>GitHub Languages</h1>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldojunior990&layout=compact" />
+</nav>
 </div>
 
