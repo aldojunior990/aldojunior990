@@ -13,15 +13,9 @@
 <img  align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
-<div display="flex">
-
-## GitHub Stats
+<div>
+## GitHub Stats and GitHub Languages
 <img src="https://github-readme-stats.vercel.app/api?username=aldojunior990"/>
-
-  
-
-## GitHub Languages
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldojunior990&layout=compact" />
-
 </div>
 
