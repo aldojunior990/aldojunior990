@@ -16,6 +16,6 @@
 ## GitHub Stats and Languages
 <div>
 <img  height="150px" src="https://github-readme-stats.vercel.app/api?username=aldojunior990"/>
-<img  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldojunior990&layout=compact" />
+<img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldojunior990&layout=compact" />
 </div>
 
