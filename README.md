@@ -2,6 +2,7 @@
 
 * 🔭 I am a student of Computer Science.
 * 🧠 I'm also a front end developer.
+* 🧑‍💻 my portfolio website: https://aldojr-portfolio-nextjs.vercel.app/projects
 
 
 ## Technologies I use in my day
