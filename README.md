@@ -1,4 +1,4 @@
-### Olá, meu nome é Aldo 👋
+### Hello, my name is Aldo 👋
 
 * 🔭 I am a student of Computer Science.
 * 🧠 I'm also a front end developer.
