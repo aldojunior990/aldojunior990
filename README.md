@@ -1,7 +1,7 @@
 ### Hello, my name is Aldo 👋
 
 * 🔭 I am a student of Computer Science.
-* 🧠 I'm also a front end developer.
+* 🧠 I'm an android and front-end developer.
 * 🧑‍💻 my portfolio website: https://aldojrdev.vercel.app/
 
 ## Technologies I use in my day
