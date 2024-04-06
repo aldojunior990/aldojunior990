@@ -1,7 +1,7 @@
 ### Hello, my name is Aldo 👋
 
 * 🔭 I am a student of Computer Science.
-* 🧠 I am a skilled software developer proficient in Kotlin for native development, Java for back-end development, and React for front-end development.
+* 🧠 I am a skilled software developer proficient in Kotlin for native development mobile, Java for back-end development, and React for front-end development.
 * 🧑‍💻 my portfolio website: https://aldojr-portfolio.vercel.app/
 
 ## Technologies I use in my day
